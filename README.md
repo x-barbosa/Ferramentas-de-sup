@@ -63,7 +63,7 @@ Switch principal que identifica qual script deve ser executado conforme a escolh
 
 Abra o PowerShell na pasta onde o FastScript está salvo e execute:
 
-.\FastScript_V1.6.ps1
+.\FastScript.ps1
 
 Se a execução estiver bloqueada:
 Set-ExecutionPolicy Bypass -Scope Process -Force
